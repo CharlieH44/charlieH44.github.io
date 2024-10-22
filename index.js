@@ -1,1 +1,2 @@
-let slotValueOne = 0;
+let slotValueOne = 5;
+slotValueOne = slotValueOne
