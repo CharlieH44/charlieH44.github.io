@@ -1,2 +1,2 @@
 let slotValueOne = 5;
-#slotValueOne("slotValueOne")
+#slotValueOne(slotValueOne)
