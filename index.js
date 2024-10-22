@@ -4,3 +4,5 @@ function spin() {
   valueOne = valueOne + 1
   slotValueOne.innerText = valueOne
 }
+
+spin()
