@@ -1,1 +1,1 @@
-
+let slotValueOne = 0;
