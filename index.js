@@ -1,2 +1,2 @@
-let  valueOne = 5
+let valueOne = 5
 slotValueOne.innerText = valueOne
