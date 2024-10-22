@@ -1,7 +1,7 @@
 let valueOne = 5
 slotValueOne.innerText = valueOne
 function spin() {
-  valueOne = valueOne + 1
+  valueOne = Math.floor(Math.random(*10))
   slotValueOne.innerText = valueOne
 }
 
